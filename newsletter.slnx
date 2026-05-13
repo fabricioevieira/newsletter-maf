@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Newsletter.Ai/Newsletter.Ai.csproj" />
+  <Project Path="Newsletter.Api/Newsletter.Api.csproj" />
+  <Project Path="Newsletter.Core/Newsletter.Core.csproj" />
+  <Project Path="Newsletter.Infra/Newsletter.Infra.csproj" />
+</Solution>
